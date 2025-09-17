@@ -2,7 +2,7 @@
 
 ![python](assets/thread.png)
 
-Hello this is [Mr.Rezoo](https://www.linkedin.com/in/reza-mobaraki/)
+Hello this is [Reza Mobaraki](https://www.linkedin.com/in/reza-mobaraki/)
 
 ## Table of contents
 
@@ -71,7 +71,7 @@ source venv/bin/activate
 
 ## Contributors
 
-* [MrRezoo](https://github.com/MrRezoo)
+* [Reza Mobaraki](https://github.com/rezamobaraki)
 
 ## License
 
